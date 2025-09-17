@@ -3,7 +3,7 @@
 Repositório com exemplos de scripts em Python para estudo de conceitos básicos.
 
 ## Descrição
-Este projeto contém códigos simples em Python, abordando operações com strings, operadores, manipulação de dados e métodos básicos de entrada/saída. Ideal para iniciantes que querem praticar lógica de programação e conceitos fundamentais.
+Este projeto contém códigos simples em Python, abordando operações com strings, operadores, manipulação de dados e métodos básicos de entrada/saída.
 
 ## Arquivos do Projeto
 
